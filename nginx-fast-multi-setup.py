@@ -4,7 +4,6 @@ print("requirements: nginx, certbot already setup")
 print("Input your Domain (ex. mydomain.com)")
 domain = str(input())
 
-
 def get_domain(domain):
     print()
     print("-----NGINX part-----")
