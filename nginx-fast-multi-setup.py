@@ -51,7 +51,7 @@ def get_domain(domain):
     print()
     print("-----Certbot part-----")
     print()
-    print("sudo certbot --nginx -d " + domain + " www." + domain)
+    print("sudo certbot --nginx -d " + domain + " -d www." + domain)
     print("sudo certbot renew --dry-run")
     print("-----DONE-----")
 
