@@ -19,17 +19,17 @@ OS: Debian 10
 
 - start the script
 - type your domain
-- copy the snipets into your ssh-client
+- copy the snippets into your ssh-client
 
 ## Features
 
-- snipets as output in python-console
+- snippets as output in python-console
 - fast setup
 
 
 
 > I was annoyed to change the "your_server"
-> every code snipet to my domain.
+> every code snippet to my domain.
 > This simple script saved me time
 > setting up many server blocks.
 
